@@ -1,4 +1,5 @@
 tensorflow
-numpy
-matplotlib.pyplot
 streamlit
+numpy
+pillow
+pandas
